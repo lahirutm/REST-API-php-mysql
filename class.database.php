@@ -5,7 +5,7 @@ class database {
     
     var $hostname="localhost";
     var $username="root";
-    var $password="lahirutm";
+    var $password="";
     var $database="test_database";
 
     public function __construct() {
